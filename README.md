@@ -22,12 +22,12 @@ Technologies Used
 ###Server
 - Sinatra
 
-###Testing
--RSpec
--Capybara
-
 ###Database
 - PostgreSQL
+
+###Testing
+- RSpec
+- Capybara
 
 ##ToDo
 
