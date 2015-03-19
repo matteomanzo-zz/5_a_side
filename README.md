@@ -22,6 +22,10 @@ Technologies Used
 ###Server
 - Sinatra
 
+###Testing
+-RSpec
+-Capybara
+
 ###Database
 - PostgreSQL
 
