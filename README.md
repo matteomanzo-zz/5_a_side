@@ -15,10 +15,10 @@ This program will help you organise your weekly 5v5 game by keeping track of the
 - [x] Allow players to decide whether they want to play or not.
 
 ##Technologies
-| Languages   | Frameworks  | Databases | Testing |
-| ------------|-------------| ----- | ----- |
-| Ruby  | Sinatra        | PostgreSQL | RSpec |
-| HTML & CSS      |   |  | Capybara |
+| Languages | Front End   | Server  | Databases | Testing |
+|----  | ------------|-------------| -----      | ----- |
+| Ruby | HTML & CSS  | Sinatra     | PostgreSQL | RSpec |
+|      |             |             |            | Capybara |
 
 
 ###Front-end
