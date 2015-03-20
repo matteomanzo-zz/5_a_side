@@ -20,26 +20,38 @@ This program will help you organise your weekly 5v5 game by keeping track of the
 | Ruby | HTML & CSS  | Sinatra     | PostgreSQL | RSpec |
 |      |             |             |            | Capybara |
 
-
-###Front-end
-- HTML & CSS
-
-###Server
-- Sinatra
-
-###Database
-- PostgreSQL
-
-###Testing
-- RSpec
-- Capybara
+##How to run it
+Clone the repository and change into the directory:
+```
+SSH:
+$ git clone git@github.com:matteomanzo/5_a_side.git
+HTTPS:
+$ git clone https://github.com/matteomanzo/5_a_side.git
+$ cd 5_a_side
+```
+Create the databases
+```
+$ psql
+CREATE DATABASE five_a_side_development;
+CREATE DATABASE five_a_side_test;
+\q
+```
+Install the gems
+```
+$ bundle install
+```
+Run the tests
+```
+$ rspec
+```
+Run it locally with `rackup` and go to `http://localhost:9292/`.
 
 ##ToDo
 
 - [ ] Admin account to reset teams
 - [ ] Players who join after the teams are generated have to be balanced within the teams
 
-Collaborators
+##Collaborators
 
 - [Gus Powell](https://github.com/guspowell)
 - [Matteo Manzo](https://github.com/matteomanzo)
