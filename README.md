@@ -14,7 +14,12 @@ This program will help you organise your weekly 5v5 game by keeping track of the
 - [x] Will not generate the same teams twice in a row;
 - [x] Allow players to decide whether they want to play or not.
 
-Technologies Used
+##Technologies
+| Languages   | Frameworks  | Databases | Testing |
+| ------------|-------------| ----- | ----- |
+| Ruby  | Sinatra        | PostgreSQL | RSpec |
+| HTML & CSS      |   |  | Capybara |
+
 
 ###Front-end
 - HTML & CSS
