@@ -21,12 +21,15 @@ This program will help you organise your weekly 5v5 game by keeping track of the
 |      |             |             |            | Capybara |
 
 ##How to run it
-Clone the repository and change into the directory:
+Clone the repository
 ```
 SSH:
 $ git clone git@github.com:matteomanzo/5_a_side.git
 HTTPS:
 $ git clone https://github.com/matteomanzo/5_a_side.git
+```
+Change into the directory
+```
 $ cd 5_a_side
 ```
 Create the databases
