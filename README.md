@@ -54,6 +54,7 @@ Run it locally with `rackup` and go to `http://localhost:9292/`.
 
 - [ ] Admin account to reset teams
 - [ ] Players who join after the teams are generated have to be balanced within the teams
+- [ ] <strong>Refactor controllers !!!</strong>
 
 ##Collaborators
 
