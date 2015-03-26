@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/matteomanzo/5_a_side/badges/gpa.svg)](https://codeclimate.com/github/matteomanzo/5_a_side) [![Test Coverage](https://codeclimate.com/github/matteomanzo/5_a_side/badges/coverage.svg)](https://codeclimate.com/github/matteomanzo/5_a_side)
 #5 A Side
 
 Want to play a 5 a side game? Don't you want to forget who said "I'm in!" and don't know how to shuffle the teams?
@@ -54,6 +55,7 @@ Run it locally with `rackup` and go to `http://localhost:9292/`.
 
 - [ ] Admin account to reset teams
 - [ ] Players who join after the teams are generated have to be balanced within the teams
+- [ ] <strong>Refactor controllers !!!</strong>
 
 ##Collaborators
 
