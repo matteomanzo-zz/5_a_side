@@ -7,12 +7,6 @@ This program will help you organise your weekly 5v5 game by keeping track of the
 
 ![ball](/soccer.png)
 
-##Job list
-
-- [x] Store players information;
-- [x] Randomly generate teams;
-- [x] Will not generate the same teams twice in a row;
-- [x] Allow players to decide whether they want to play or not.
 
 ##Technologies
 | Languages | Front End   | Server  | Databases | Testing |
@@ -48,6 +42,13 @@ Run the tests
 $ rspec
 ```
 Run it locally with `rackup` and go to `http://localhost:9292/`.
+
+##Job list
+
+- [x] Store players information;
+- [x] Randomly generate teams;
+- [x] Will not generate the same teams twice in a row;
+- [x] Allow players to decide whether they want to play or not.
 
 ##ToDo
 
