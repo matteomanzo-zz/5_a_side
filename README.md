@@ -1,7 +1,7 @@
 [![Code Climate](https://codeclimate.com/github/matteomanzo/5_a_side/badges/gpa.svg)](https://codeclimate.com/github/matteomanzo/5_a_side) [![Test Coverage](https://codeclimate.com/github/matteomanzo/5_a_side/badges/coverage.svg)](https://codeclimate.com/github/matteomanzo/5_a_side)
 #5 A Side
 
-Want to play a 5 a side game? Don't you want to forget who said "I'm in!" and don't know how to shuffle the teams?
+Want to play a 5 a side game? Don't want to forget who said "I'm in!" and don't know how to shuffle the teams?
 This program will help you organise your weekly 5v5 game by keeping track of the players, teams and results!
 
 [Live Version](https://makers-five-a-side.herokuapp.com/)
